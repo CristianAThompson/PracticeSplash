@@ -1,14 +1,12 @@
 .container {  
   margin: 0 auto;
   max-width: 1200px;
-  display: flex;
 }
 
 .row {
   padding: 10px;
   max-width: 100%;
-  flex-direction: row;
-  flex-wrap: wrap;
+  content-align: left;
 }  
 
 .col-12 { 
