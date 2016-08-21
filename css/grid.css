@@ -5,6 +5,7 @@
 .row {
   padding: 10px;
   max-width: 100%;
+  display: block;
 }  
 
 .col-1, 
