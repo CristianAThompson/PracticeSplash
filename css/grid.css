@@ -15,6 +15,7 @@ html {
   padding-top: 5px;
   padding-bottom: 10px;
   width: 100%;
+  display: inline;
 }
 
 .col-1,
@@ -39,7 +40,6 @@ html {
 
 .col-11 {
   width: 91.66666667%;
-  display: block;
 }
 
 .col-10 {
