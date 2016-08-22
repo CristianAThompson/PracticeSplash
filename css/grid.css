@@ -71,7 +71,7 @@ html {
 
 .col-5 {
   width: 41.66666667%;
-  display: inline-block;
+  /*display: inline-block;*/
 }
 
 .col-4 {
