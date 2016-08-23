@@ -33,50 +33,62 @@ html {
   display: inline-block;
 }
 
-.col-12 {
+.col-15 {
   width: 100%;
 }
 
+.col-14 {
+  width: 93.33338%;
+}
+
+.col-13 {
+  width: 86.66671%;
+}
+
+.col-12 {
+  width: 80.00004%;
+}
+
 .col-11 {
-  width: 91.66666667%;
+  width: 73.33337%;
 }
 
 .col-10 {
-  width: 83.33333333%;
+  width: 66.6667%;
 }
 
 .col-9 {
-  width: 75%;
+  width: 60.00003%;
 }
 
 .col-8 {
-  width: 66.66666667%;
-} 
+  width: 53.33336%;
+}
 
 .col-7 {
-  width: 58.33333333%;
+  width: 46.66669%;
 }
 
 .col-6 {
-  width: 50%;
+  width: 40.00002%;
 }
 
 .col-5 {
-  width: 41.66666667%;
+  width: 33.33335%;
 }
 
 .col-4 {
-  width: 33.33333333%;
+  width: 26.66668%;
 }
 
 .col-3 {
-  width: 25%;
+  width: 20.00001%;
 }
 
 .col-2 {
-  width: 16.66666667%;
+  width: 13.33334%;
 }
 
 .col-1 {
-  width: 8.33333333%;
+  width: 6.66667%;
 }
