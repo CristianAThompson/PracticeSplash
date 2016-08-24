@@ -8,13 +8,17 @@ html {
 
 .container {
   margin: 0 auto;
-  max-width: 1200px;
 }
 
 .row {
   padding-top: 5px;
   padding-bottom: 10px;
   width: 100%;
+}
+
+.content-container {
+  margin: inherit;
+  max-width: 880px;
 }
 
 .col-1,
@@ -32,8 +36,9 @@ html {
 .col-12,
 .col-13,
 .col-14,
-.col-15 {
-  margin-right: -4px;
+.col-15,
+.row {
+  float: left;
   display: inline-block;
 }
 
