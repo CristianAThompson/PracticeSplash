@@ -1,24 +1,56 @@
 html {
   text-align: center;
+  vertical-align: middle;
+
 }
 
 *, *:before, *:after {
   text-align: inherit;
+  vertical-align: inherit;
+}
+
+body {
+  background-color: lightblue;
 }
 
 .header {
-  font-size: 25px;
+  /*border: solid 2px black;*/
+  min-height: 55px;
   position: fixed;
   top: 0px;
   left: 0px;
+  float: left;
+}
+
+.header-scroll {
+  min-height: 80px;
+  background-color: gray;
+}
+
+.scroll {
+  font-variant: small-caps;
+  font-size: 24px;
+  float: right;
+  margin-right: 40px;
+  display: none;
 }
 
 .footer {
-  font-size: 1.45em;
+  font-size: 22px;
   bottom: 0px;
   left: 0px;
 }
 
 .content-container {
-  font-size: 1.25em;
+  font-size: 16px;
+}
+
+.icon {
+  height: 26px;
+  float: left;
+  margin: 25px;
+}
+
+.icon-scroll {
+  height: 36px;
 }
