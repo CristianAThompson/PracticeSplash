@@ -1,9 +1,7 @@
 $(window).scroll(function() {
   if ($(document).scrollTop() > 60) {
-    $(".header").fadeIn([100]);
-    $("#header-text").fadeIn([100]);
+    $(".header").fadeIn([125]);
   } else {
-    $(".header").fadeOut([100]);
-    $("#header-text").fadeOut([100]);
+    $(".header").fadeOut([125]);
   }
 })
