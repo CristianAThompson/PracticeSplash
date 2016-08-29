@@ -14,7 +14,7 @@ html {
 .row {
   padding-top: 5px;
   padding-bottom: 10px;
-  width: 100%;
+  max-width: 100%;
 }
 
 .content-container {
