@@ -13,10 +13,6 @@ body {
   background-color: lightblue;
 }
 
-img {
-  width: 100%;
-}
-
 .header {
   /*border: solid 2px black;*/
   display: none;
@@ -50,6 +46,10 @@ img {
 
 .content-container {
   font-size: 16px;
+}
+
+.content-img {
+  width: 100%;
 }
 
 .icon {
