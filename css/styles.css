@@ -14,20 +14,14 @@ body {
 }
 
 .header {
-  /*border: solid 2px black;*/
   display: none;
   max-height: 55px;
-  vertical-align: text-top;
+  padding-top: 5px;
   background-color: gray;
   position: fixed;
   top: 0px;
   left: 0px;
   float: left;
-}
-
-.header-scroll {
-  min-height: 55px;
-
 }
 
 .header-text {
