@@ -18,7 +18,11 @@
       </header>
       <div class="row">
         <div class="col-15">
-          <img class="content-img" src="images\topplaceholder.jpg"></img>
+          <picture>
+            <source class="content-img" media="(max-width: 600px)" srcset="images\topplaceholdermobile.jpg">
+            <source class="content-img" media="(min-width: 601px)" srcset="images\topplaceholder.jpg">
+            <img class="content-img" src="images\topplaceholdermobile.jpg">
+          </picture>
         </div>
       </div>
       <div class="content-container">
