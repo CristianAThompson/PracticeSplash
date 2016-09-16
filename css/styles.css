@@ -86,3 +86,7 @@ body {
   border-style: ridge;
   background-color: lightgray;
 }
+
+.contact-text {
+  width: 80%;
+}
