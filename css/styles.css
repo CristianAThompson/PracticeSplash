@@ -64,3 +64,19 @@ body {
   padding-left: 10px;
   margin-top: 10px;
 }
+
+.contact {
+  font-family: inherit;
+  border-style: ridge;
+  border-radius: 5px;
+}
+
+.contact-button {
+  font-family: inherit;
+  border-radius: 5px;
+}
+
+.contact-button:hover {
+  border-style: ridge;
+  background-color: lightgray;
+}
