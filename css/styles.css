@@ -69,9 +69,15 @@ body {
   font-family: inherit;
   border-style: ridge;
   border-radius: 5px;
+
+}
+
+.contact-div {
+  margin-top: 10px;
 }
 
 .contact-button {
+  margin-top: 10px;
   font-family: inherit;
   border-radius: 5px;
 }
