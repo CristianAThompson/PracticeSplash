@@ -7,7 +7,6 @@ html {
 *, *:before, *:after {
   text-align: inherit;
   vertical-align: inherit;
-  font-size: 15px;
 }
 
 body {
@@ -17,6 +16,8 @@ body {
 .profile-text {
   text-align: left;
   padding-left: 20px;
+  line-height: 20px;
+
 }
 
 .profile-picture {
