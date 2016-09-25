@@ -7,6 +7,7 @@ html {
 *, *:before, *:after {
   text-align: inherit;
   vertical-align: inherit;
+  font-size: 18px;
 }
 
 body {
@@ -36,11 +37,16 @@ body {
 }
 
 .header-text {
-  margin-top: 5px;
+  margin-top: 2px;
   font-variant: small-caps;
-  font-size: 24px;
+  font-size: 28px;
   float: right;
   margin-right: 40px;
+}
+
+.head-img {
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .footer {
@@ -69,11 +75,11 @@ body {
   font-family: inherit;
   border-style: ridge;
   border-radius: 5px;
-  text-align: left;
+  text-align: center;
 }
 
 .contact-div {
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .contact-button {
