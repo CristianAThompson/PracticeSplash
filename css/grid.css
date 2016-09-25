@@ -18,6 +18,7 @@ body {
 .row {
   padding-bottom: 5px;
   width: 100%;
+  margin: inherit;
 }
 
 .content-container {

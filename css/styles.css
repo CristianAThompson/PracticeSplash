@@ -55,10 +55,6 @@ body {
   left: 0px;
 }
 
-.content-container {
-  font-size: 16px;
-}
-
 .content-img {
   width: 100%;
   max-height: 400px;
@@ -73,9 +69,14 @@ body {
 
 .contact {
   font-family: inherit;
+  font-size: 16px;
   border-style: ridge;
   border-radius: 5px;
   text-align: center;
+}
+
+.contact-form {
+  height: 250px;
 }
 
 .contact-div {
